@@ -82,7 +82,7 @@ The idea of becoming a Game Dev started to get me excited, so I began to focus o
 <h2 align="center"> 📖 Cursos e Bootcamps </h2>
 
 <div align="center">
-• Santander Bootcamp 2024
+• Santander Bootcamp 2024 - Desenvolvimento de Jogos com Godot
 </div>
 
 <h2 align="center"> 📱 Redes sociais / Social media </h2>
