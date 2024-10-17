@@ -24,10 +24,6 @@
 </p>
 
 <p>
-🔹Gosto muito de aprender a origem das coisas, e quase sempre busco compreender "como a roda foi inventada".
-</p>
-
-<p>
 🔹Tenho uma paixão gigante por games, desde a infância eu aprecio a arte dos games e vejo 'making ofs' para sanar a curiosidade.
 A ideia de me tornar um Game Dev passou a gerar um "calorzinho no peito", e desde então passei a focar neste segmento.
 </p>
@@ -44,10 +40,6 @@ A ideia de me tornar um Game Dev passou a gerar um "calorzinho no peito", e desd
 
 <p>
 🔹I have developed a great interest for programming in C and Java, the way of structuring the alghoritm and creating solutions with these languages fascinates me.
-</p>
-
-<p>
-🔹I enjoy learning the source of things, and I almost always seek to understand "how the wheel was invented".
 </p>
 
 <p>
