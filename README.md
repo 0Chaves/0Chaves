@@ -12,39 +12,42 @@
 <h3 align=center>Sobre mim</h3> 
 
 <p>
-🔹Há muito tempo atrás cursei licenciatura em matemática e estive perto da formatura, porém descobri que dar aulas de matemática não era meu desejo.
+🔹Estudante em Análise e Desenvolvimento de Sistemas em busca de novas oportunidades.
 </p>
 
 <p>
-🔹Atualmente estou investindo no mundo da programação pois sempre gostei de solucionar problemas.
+🔹Atualmente trabalho como bolsista no IFRS atuando no desenvolvimento do [Portal e Rede Integra do Instituto Federal](https://integra.ifrs.edu.br/)
+</p> 
+
+<p>
+🔹Trabalho com desenvolvimento fullstack utilizando Java, Postgresql e Vue.
 </p>
 
 <p>
-🔹Despertei um grande interesse pela programação em C e Java, a forma de estruturar o algoritmo detalhadamente e de criar soluções com estas linguagens me fascina.
-</p>
-
-<p>
-🔹Tenho uma paixão gigante por games, desde a infância eu aprecio a arte dos games e vejo 'making ofs' para sanar a curiosidade.
-A ideia de me tornar um Game Dev passou a gerar um "calorzinho no peito", e desde então passei a focar neste segmento.
+🔹Tenho conhecimentos em:
+  Java - Spring
+  Postgresql
+  Vue
+  Next.js
+  C
 </p>
 
 <h3 align=center>About</h3> 
 
 <p>
-🔹Long time ago I tried a degree in mathematics and I was close to complete, but I realize that beign Math teacher wasn't my wish.
+🔹ADS Student | Full-Stack Developer
 </p>
 
 <p>
-🔹Nowadays I'm giving a shot to the programming world because I always liked to solve problems.
+🔹Currently developing the [IFRS Integra Portal](https://integra.ifrs.edu.br/) as a research fellow.
 </p>
 
 <p>
-🔹I have developed a great interest for programming in C and Java, the way of structuring the alghoritm and creating solutions with these languages fascinates me.
+🔹Tech Stack: Java, PostgreSQL, and Vue.js.
 </p>
 
 <p>
-🔹I have a great passion for games, since my childhood I enjoy games' art and search for making-of videos for curiosity.
-The idea of becoming a Game Dev started to get me excited, so I began to focus on that.
+🔹Open to new challenges and opportunities.
 </p>
 
 <h2 align="center"> ⚒️ Habilidades / Hardskills</h2>
