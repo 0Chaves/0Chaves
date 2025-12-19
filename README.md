@@ -25,10 +25,10 @@
 
 <p>
 🔹Tenho conhecimentos em:
-  Java - Spring
-  Postgresql
-  Vue
-  Next.js
+  Java - Spring, 
+  Postgresql, 
+  Vue, 
+  Next.js, 
   C
 </p>
 
