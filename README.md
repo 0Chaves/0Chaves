@@ -82,7 +82,7 @@
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=0Chaves&layout=compact&bg_color=353D41&border_color=123547&title_color=EB9326&text_color=FFF&)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0Chaves&theme=transparent&bg_color=353D41&border_color=123547&show_icons=true&icon_color=EB9326&title_color=EB9326&text_color=FFF&hide_title=true&hide=stars&rank_icon=github)
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=0Chaves&hide=contribs,prs)
 
 <!-- [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=0Chaves&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/0Chaves/SEUREPOSITORIO) -->
 </div>
