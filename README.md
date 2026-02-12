@@ -76,11 +76,11 @@
 <!-- [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=0Chaves&repo=SEUREPOSITORIO&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/0Chaves/SEUREPOSITORIO) -->
 </div>
 
-<h2 align="center"> 📖 Cursos e Bootcamps </h2>
+<!-- <h2 align="center"> 📖 Cursos e Bootcamps </h2>
 
 <div align="center">
 • Santander Bootcamp 2024 - Desenvolvimento de Jogos com Godot
-</div>
+</div> -->
 
 <h2 align="center"> 📱 Redes sociais / Social media </h2>
 
